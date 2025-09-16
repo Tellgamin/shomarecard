@@ -73,18 +73,18 @@
                 
                 <div class="glass rounded-xl p-4 mb-6">
                     <div class="text-xl font-mono tracking-wider text-center text-white" id="cardNumber">
-                        6037-9919-1234-5678
+                        6219-8619-5844-8119
                     </div>
                 </div>
 
                 <div class="grid grid-cols-2 gap-4 mb-6">
                     <div>
                         <label class="text-sm text-gray-400 block mb-1">نام صاحب کارت</label>
-                        <div class="text-white font-medium" id="cardHolder">علی احمدی</div>
+                        <div class="text-white font-medium" id="cardHolder">مهیار قاصری</div>
                     </div>
                     <div>
                         <label class="text-sm text-gray-400 block mb-1">بانک</label>
-                        <div class="text-white font-medium">صادرات</div>
+                        <div class="text-white font-medium">بلو</div>
                     </div>
                 </div>
 
